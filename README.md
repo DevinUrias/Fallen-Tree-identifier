@@ -63,7 +63,7 @@ Classification Report:
 
   Not Fallen       0.91      0.95      0.93        44
   
-      Fallen       0.85      0.73      0.79        15
+  Fallen           0.85      0.73      0.79        15
 
 
 ## Output
