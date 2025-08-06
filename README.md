@@ -4,8 +4,8 @@ This project uses a convolutional neural network (CNN) to classify images of for
 
 ## Project Overview
 
--Goal: Identify whether a given image of trees contains at least one fallen tree
--Approach: Built two different CNNs, one trained from scratch using a csv to load images and one separating images into their respective folders and built off of existing models.
+- Goal: Identify whether a given image of trees contains at least one fallen tree
+- Approach: Built two different CNNs, one trained from scratch using a csv to load images and one separating images into their respective folders and built off of existing models.
 - Data Format: JPEG images with associated labels 
 - Frameworks Used: Tensorflow, Keras, Pandas, scikit-learn
 
@@ -52,7 +52,9 @@ Example evaluation on test set
 Test Accuracy: 89.83%
 
 Confusion Matrix:
+
 [[42  2]
+
  [ 4 11]]
 
 Classification Report:
